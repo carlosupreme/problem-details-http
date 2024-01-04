@@ -14,6 +14,7 @@ test("Should create object from Error", () => {
   expect(pd).toBeDefined();
   expect(pd).toBeInstanceOf(ProblemDetails);
   expect(pd.detail).toBe(err.message);
+  expect(pd.title).toBe(err.name);
 });
 
 test("Should create object from Details and print in json", () => {

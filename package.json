@@ -1,7 +1,7 @@
 {
   "name": "problem-details-http",
-  "version": "1.0.1",
-  "description": "return htttp errors as stated in the document Problem Details for HTTP APIs RFC7807",
+  "version": "1.0.2",
+  "description": "return http errors as stated in the document Problem Details for HTTP APIs RFC7807",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
