@@ -31,6 +31,17 @@ export class ProblemDetails {
     );
   }
 
+  toJson(): object {
+    return {
+      type: this.type,
+      status: this.status,
+      title: this.title,
+      detail: this.detail,
+      instance: this.instance,
+      ...this.extensions,
+    };
+  }
+
   toString() {
     const extensionsIsUndefined = Object.keys(this.extensions).length === 0;
 
