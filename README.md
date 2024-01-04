@@ -1,4 +1,16 @@
-# HTTP Problem Details Library
+<div align="center" >
+
+# `problem-details-http`
+
+[![NPM Version](https://badgen.net/npm/v/problem-details-http?color=red)](https://www.npmjs.com/package/problem-details-http)
+![License](https://badgen.net/npm/license/problem-details-http?color=yellow)
+![Last Commit](https://badgen.net/github/last-commit/carlosupreme/problem-details-http/main?color=blue&icon=github)
+
+![Open Issues](https://badgen.net/github/open-issues/carlosupreme/problem-details-http?color=green&icon=github)
+![Dependencies](https://badgen.net/badge/dependencies/none/green)
+[![GZIP Size](https://img.badgesize.io/https://unpkg.com/problem-details-http@latest/dist/index.js?compression=gzip)](https://unpkg.com/problem-details-http@latest/dist/index.js)
+</div>
+
 
 ## Overview
 
