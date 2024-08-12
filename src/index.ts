@@ -1,3 +1,5 @@
-import { PDBuilder } from "./PDBuilder";
-export default PDBuilder;
+import {ProblemDetailsBuilder} from "./ProblemDetailsBuilder";
+
+export default ProblemDetailsBuilder;
 export * from "./ProblemDetails";
+export * from "./DefaultProblemDetailsValues";
